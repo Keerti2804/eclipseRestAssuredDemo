@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22" started-at="2021-06-18T07:47:35Z" finished-at="2021-06-18T07:47:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22" started-at="2021-06-18T07:47:35Z" finished-at="2021-06-18T07:47:35Z">
+      <class name="Demo1.data">
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:Demo1.data@e12bac]" name="f" duration-ms="6" started-at="2021-06-18T13:17:35Z" data-provider="dp" finished-at="2021-06-18T13:17:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Keerti]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sarode]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:Demo1.data@e12bac]" name="f" duration-ms="1" started-at="2021-06-18T13:17:35Z" data-provider="dp" finished-at="2021-06-18T13:17:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rajanish]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:Demo1.data@e12bac]" name="f" duration-ms="1" started-at="2021-06-18T13:17:35Z" data-provider="dp" finished-at="2021-06-18T13:17:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ved]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Keeraj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Demo1.data -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
